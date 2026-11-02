@@ -1,0 +1,7 @@
+.venv-controller/
+__pycache__/
+*.pyc
+*.part
+server.py.backup
+.DS_Store
+received_files/
